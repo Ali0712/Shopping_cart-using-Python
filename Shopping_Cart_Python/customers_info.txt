@@ -1,0 +1,4 @@
+{'user_id': 'anshara', 'password': 'aaa', 'first name': 'anshara', 'last name': 'ayaz', 'address': 'karachi', 'email': 'aaaa@gmail.com', 'phone': '23135324'}
+{'user_id': 'james', 'password': 'hehe', 'first name': 'james', 'last name': 'stark', 'address': 'california', 'email': 'james@gmail.com', 'phone': '43264929279'}
+{'user_id': 'basit', 'password': '1234', 'first name': 'basit', 'last name': 'khan', 'address': 'karachi', 'email': 'basit@gmail.com', 'phone': '03186437823'}
+{'user_id': 'ali', 'password': 'ali', 'first name': 'muhammad', 'last name': 'ali', 'address': 'ned university', 'email': 'ali@gmail.com', 'phone': '03181137787'}
